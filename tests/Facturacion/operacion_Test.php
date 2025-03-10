@@ -11,6 +11,8 @@ class operacion_Test extends TestCase
         $this->assertIsNumeric(actual:$nFct);
         $this->assertEquals(expected: $nFct, actual:50);
     }*/
+
+    
     public function testtuno():void
     { 
         $this->assertTrue(condition: true);
